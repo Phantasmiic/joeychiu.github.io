@@ -2,7 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/Phantasmiic/joeychiu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
+
+1. Goldenstate **Warriors**
+2. San Antionio Spurs
 
 ### Markdown
 
@@ -20,7 +23,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-***whatsup***
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![https://goo.gl/images/SAEGnF](src)
