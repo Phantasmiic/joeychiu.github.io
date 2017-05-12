@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/Phantasmiic/joeychiu.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
 
-1. Goldenstate **Warriors**
-2. San Antionio Spurs
+> We're living the future so
+> the present is our past.
 
 ### Markdown
 
