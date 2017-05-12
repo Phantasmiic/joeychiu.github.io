@@ -7,8 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > We're living the future so
 > the present is our past.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](https://goo.gl/images/SAEGnF)
+
 
 ### Markdown
 
